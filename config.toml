@@ -1,0 +1,4 @@
+debug = false
+server_addr = "0.0.0.0:4040"
+[database]
+url = "/tmp/tweetide.db" # yeah who cares! xD
